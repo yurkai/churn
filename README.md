@@ -1,2 +1,2 @@
-# churn
-Churn Prediction Repo for Capstone Project of MIPT DS Specialization
+# Предсказание оттока пользователей
+Финальный проект 6 курса специализации МФТИ и Яндекса.
